@@ -1,0 +1,8 @@
+{
+    "email_not_verified": "Your email address has not been verified.",
+    "invalid_login": "Invalid Login Details.",
+    "password_updated": "Password updated successfully.",
+    "profile_udpated": "Profile updated successfully.",
+    "pwd_doesnt_match": "Password not matched.",
+    "token_create_failed": "Failed to create token."
+}
